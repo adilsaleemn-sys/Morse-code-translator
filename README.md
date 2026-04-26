@@ -76,7 +76,7 @@ A–Z (uppercase & lowercase)
 ## 📖 Example Usage
 
 ### 👉 Text to Morse Code
-
+👉 Try Live Tool:  (https://morsecodetranslatr.com/)
 ---
 
 ## 🛠️ Technology Stack
