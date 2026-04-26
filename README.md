@@ -77,4 +77,22 @@ A–Z (uppercase & lowercase)
 
 ### 👉 Text to Morse Code
 
+---
+
+## 🛠️ Technology Stack
+
+This project is built using only frontend technologies:
+
+- **HTML5** → Structure
+- **CSS3** → Styling & Layout
+- **JavaScript (Vanilla JS)** → Logic & Conversion Engine
+- **Web Audio API** → Sound generation (optional feature)
+
+No external libraries or frameworks are required.
+
+---
+
+## 📁 Project Structure
+
+
 **Input:**
